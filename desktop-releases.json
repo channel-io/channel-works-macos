@@ -1,7 +1,7 @@
 {
-  "latestVersion": "12.1.1",
-  "buildVersion": "144",
-  "tagName": "v12.1.1",
-  "downloadUrl": "https://github.com/channel-io/channel-works-macos/releases/download/v12.1.1/Channel.Works-darwin-universal-12.1.1.zip",
-  "sha256": "bfb118b46febba90ea7583b5ed1d8265585ff7d10c16e0e0a061a81bc8027120"
+  "latestVersion": "12.2.0",
+  "buildVersion": "145",
+  "tagName": "v12.2.0",
+  "downloadUrl": "https://github.com/channel-io/channel-works-macos/releases/download/v12.2.0/Channel.Works-darwin-universal-12.2.0.zip",
+  "sha256": "a81e8fc113909c05db78027215eb44818fa7ee37202b1992f77e202c6696dd0d"
 }
